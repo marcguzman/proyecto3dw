@@ -10,6 +10,6 @@
 namespace Proyecto03 {
     
     
-    public partial class WebForm1 {
+    public partial class DefaultWebForm {
     }
 }

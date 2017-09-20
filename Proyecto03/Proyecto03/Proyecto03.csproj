@@ -65,9 +65,17 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="DefaultWebForm.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DefaultWebForm.aspx.cs">
+      <DependentUpon>DefaultWebForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DefaultWebForm.aspx.designer.cs">
+      <DependentUpon>DefaultWebForm.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <PropertyGroup>
