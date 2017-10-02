@@ -32,3 +32,37 @@ c:\users\mguzman.campero\documents\visual studio 2017\Projects\carrito\carrito\b
 c:\users\mguzman.campero\documents\visual studio 2017\Projects\carrito\carrito\obj\Debug\carrito.csprojResolveAssemblyReference.cache
 c:\users\mguzman.campero\documents\visual studio 2017\Projects\carrito\carrito\obj\Debug\carrito.dll
 c:\users\mguzman.campero\documents\visual studio 2017\Projects\carrito\carrito\obj\Debug\carrito.pdb
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\bin\roslyn\csc.exe
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\bin\roslyn\csc.exe.config
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\bin\roslyn\csc.rsp
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\bin\roslyn\csi.exe
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\bin\roslyn\csi.rsp
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\bin\roslyn\System.AppContext.dll
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\bin\roslyn\vbc.exe
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\bin\roslyn\vbc.exe.config
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\bin\roslyn\vbc.rsp
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\bin\carrito.dll.config
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\bin\carrito.dll
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\bin\carrito.pdb
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\obj\Debug\carrito.csprojResolveAssemblyReference.cache
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\obj\Debug\carrito.dll
+C:\Users\Mak\Source\Repos\proyecto3dw\carrito\obj\Debug\carrito.pdb
