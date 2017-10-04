@@ -1,0 +1,22 @@
+c:\users\willi\documents\visual studio 2015\Projects\CarritoCompras\ComponenteNegocio\bin\Debug\ComponenteNegocio.dll
+c:\users\willi\documents\visual studio 2015\Projects\CarritoCompras\ComponenteNegocio\bin\Debug\ComponenteNegocio.pdb
+c:\users\willi\documents\visual studio 2015\Projects\CarritoCompras\ComponenteNegocio\bin\Debug\BDConexion.dll
+c:\users\willi\documents\visual studio 2015\Projects\CarritoCompras\ComponenteNegocio\bin\Debug\ComponenteDatos.dll
+c:\users\willi\documents\visual studio 2015\Projects\CarritoCompras\ComponenteNegocio\bin\Debug\ComponenteEntidad.dll
+c:\users\willi\documents\visual studio 2015\Projects\CarritoCompras\ComponenteNegocio\bin\Debug\BDConexion.pdb
+c:\users\willi\documents\visual studio 2015\Projects\CarritoCompras\ComponenteNegocio\bin\Debug\ComponenteDatos.pdb
+c:\users\willi\documents\visual studio 2015\Projects\CarritoCompras\ComponenteNegocio\bin\Debug\ComponenteEntidad.pdb
+c:\users\willi\documents\visual studio 2015\Projects\CarritoCompras\ComponenteNegocio\obj\Debug\ComponenteNegocio.csprojResolveAssemblyReference.cache
+c:\users\willi\documents\visual studio 2015\Projects\CarritoCompras\ComponenteNegocio\obj\Debug\ComponenteNegocio.dll
+c:\users\willi\documents\visual studio 2015\Projects\CarritoCompras\ComponenteNegocio\obj\Debug\ComponenteNegocio.pdb
+C:\Users\mguzman.CAMPERO\Desktop\CarritoCompras\ComponenteNegocio\bin\Debug\ComponenteNegocio.dll
+C:\Users\mguzman.CAMPERO\Desktop\CarritoCompras\ComponenteNegocio\bin\Debug\ComponenteNegocio.pdb
+C:\Users\mguzman.CAMPERO\Desktop\CarritoCompras\ComponenteNegocio\bin\Debug\BDConexion.dll
+C:\Users\mguzman.CAMPERO\Desktop\CarritoCompras\ComponenteNegocio\bin\Debug\ComponenteDatos.dll
+C:\Users\mguzman.CAMPERO\Desktop\CarritoCompras\ComponenteNegocio\bin\Debug\ComponenteEntidad.dll
+C:\Users\mguzman.CAMPERO\Desktop\CarritoCompras\ComponenteNegocio\bin\Debug\BDConexion.pdb
+C:\Users\mguzman.CAMPERO\Desktop\CarritoCompras\ComponenteNegocio\bin\Debug\ComponenteDatos.pdb
+C:\Users\mguzman.CAMPERO\Desktop\CarritoCompras\ComponenteNegocio\bin\Debug\ComponenteEntidad.pdb
+C:\Users\mguzman.CAMPERO\Desktop\CarritoCompras\ComponenteNegocio\obj\Debug\ComponenteNegocio.csprojResolveAssemblyReference.cache
+C:\Users\mguzman.CAMPERO\Desktop\CarritoCompras\ComponenteNegocio\obj\Debug\ComponenteNegocio.dll
+C:\Users\mguzman.CAMPERO\Desktop\CarritoCompras\ComponenteNegocio\obj\Debug\ComponenteNegocio.pdb
