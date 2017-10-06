@@ -5,7 +5,7 @@
     <div class="jumbotron">
         <h1>Tus Compras UMG</h1>
         <p class="lead">Una tienda Virtual ,&nbsp; Anuncio Clasificado de artículos bajo esta forma de anuncio, en el que se exponen las características del artículo en cuestión y su precio.</p>
-        <p><a href="About.aspx" class="btn btn-primary btn-lg">Leer Más &raquo;</a></p>
+        <p><a href="About.aspx" class="btn btn-primary btn-lg">Leer Más &raquo;</a> <a href="Carrito_Compra.aspx" class="btn btn-primary btn-lg">Realiza tu Compra! &raquo;</a></p>
     </div>
 
     <div class="row">
@@ -18,7 +18,7 @@
                 <asp:Image ID="Image1" runat="server" ImageUrl="~/Imagenes/lenovo.jpg" />
             </p>
             <p>
-                <a class="btn btn-default" href="Carrito_Compra.aspx">Leer Más &raquo;</a>
+                <a class="btn btn-default" href="Computadoras.aspx">Leer Más &raquo;</a>
             </p>
         </div>
         <div class="col-md-4">
@@ -33,12 +33,15 @@
             </p>
         </div>
         <div class="col-md-4">
-            <h2>Web Hosting</h2>
+            <h2>Celulares</h2>
             <p>
-                You can easily find a web hosting company that offers the right mix of features and price for your applications.
+                Puedes obtener una gran variedad de celulares, que se ajustan a tus necesidades.
             </p>
             <p>
-                <a class="btn btn-default" href="Carrito_Compra.aspx">Learn more &raquo;</a>
+                <asp:Image ID="Image4" runat="server" Height="206px" ImageUrl="~/Imagenes/CELULAR.jpg" Width="246px" />
+            </p>
+            <p>
+                <a class="btn btn-default" href="Carrito_Compra.aspx">Leer mas &raquo;</a>
             </p>
         </div>
     </div>
