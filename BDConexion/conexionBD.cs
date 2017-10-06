@@ -10,7 +10,7 @@ namespace BDConexion
 {
     public class conexionBD
     {
-        private string cadena = @"Data Source=GT-MGUZMAN-NBK\SQLEXPRESS;Initial Catalog=BDVENTAS_5;Integrated Security=True";
+        private string cadena = @"Data Source=RDCC0003\SQLEXPRESS;Initial Catalog=BDVENTAS_5;Integrated Security=True";
 
         private SqlConnection conexion;
 

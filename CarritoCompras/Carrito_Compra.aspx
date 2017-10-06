@@ -43,8 +43,8 @@
                                     <br />
                                 </ItemTemplate>
                             </asp:DataList>
-
-						    <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:BDVENTAS_5ConnectionString %>" SelectCommand="SELECT * FROM [Productos]"></asp:SqlDataSource>
+                            
+						    <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:BDVENTAS_5ConnectionString %>" SelectCommand="SELECT * FROM [Productos]  "></asp:SqlDataSource>
 
 						</td>
                         						

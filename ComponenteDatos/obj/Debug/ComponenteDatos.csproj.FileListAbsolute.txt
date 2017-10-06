@@ -16,3 +16,12 @@ C:\Users\mguzman.CAMPERO\Desktop\CarritoCompras\ComponenteDatos\bin\Debug\Compon
 C:\Users\mguzman.CAMPERO\Desktop\CarritoCompras\ComponenteDatos\obj\Debug\ComponenteDatos.csprojResolveAssemblyReference.cache
 C:\Users\mguzman.CAMPERO\Desktop\CarritoCompras\ComponenteDatos\obj\Debug\ComponenteDatos.dll
 C:\Users\mguzman.CAMPERO\Desktop\CarritoCompras\ComponenteDatos\obj\Debug\ComponenteDatos.pdb
+C:\Users\Jorge Sandoval\Documents\puntoVentas\ComponenteDatos\bin\Debug\ComponenteDatos.dll
+C:\Users\Jorge Sandoval\Documents\puntoVentas\ComponenteDatos\bin\Debug\ComponenteDatos.pdb
+C:\Users\Jorge Sandoval\Documents\puntoVentas\ComponenteDatos\bin\Debug\BDConexion.dll
+C:\Users\Jorge Sandoval\Documents\puntoVentas\ComponenteDatos\bin\Debug\ComponenteEntidad.dll
+C:\Users\Jorge Sandoval\Documents\puntoVentas\ComponenteDatos\bin\Debug\BDConexion.pdb
+C:\Users\Jorge Sandoval\Documents\puntoVentas\ComponenteDatos\bin\Debug\ComponenteEntidad.pdb
+C:\Users\Jorge Sandoval\Documents\puntoVentas\ComponenteDatos\obj\Debug\ComponenteDatos.csprojResolveAssemblyReference.cache
+C:\Users\Jorge Sandoval\Documents\puntoVentas\ComponenteDatos\obj\Debug\ComponenteDatos.dll
+C:\Users\Jorge Sandoval\Documents\puntoVentas\ComponenteDatos\obj\Debug\ComponenteDatos.pdb

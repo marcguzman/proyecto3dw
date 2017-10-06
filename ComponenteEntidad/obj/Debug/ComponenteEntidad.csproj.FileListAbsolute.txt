@@ -8,3 +8,8 @@ C:\Users\mguzman.CAMPERO\Desktop\CarritoCompras\ComponenteEntidad\bin\Debug\Comp
 C:\Users\mguzman.CAMPERO\Desktop\CarritoCompras\ComponenteEntidad\obj\Debug\ComponenteEntidad.csprojResolveAssemblyReference.cache
 C:\Users\mguzman.CAMPERO\Desktop\CarritoCompras\ComponenteEntidad\obj\Debug\ComponenteEntidad.dll
 C:\Users\mguzman.CAMPERO\Desktop\CarritoCompras\ComponenteEntidad\obj\Debug\ComponenteEntidad.pdb
+C:\Users\Jorge Sandoval\Documents\puntoVentas\ComponenteEntidad\bin\Debug\ComponenteEntidad.dll
+C:\Users\Jorge Sandoval\Documents\puntoVentas\ComponenteEntidad\bin\Debug\ComponenteEntidad.pdb
+C:\Users\Jorge Sandoval\Documents\puntoVentas\ComponenteEntidad\obj\Debug\ComponenteEntidad.dll
+C:\Users\Jorge Sandoval\Documents\puntoVentas\ComponenteEntidad\obj\Debug\ComponenteEntidad.pdb
+C:\Users\Jorge Sandoval\Documents\puntoVentas\ComponenteEntidad\obj\Debug\ComponenteEntidad.csprojResolveAssemblyReference.cache
