@@ -130,8 +130,33 @@ namespace CarritoCompras
             Response.Redirect("Carrito_Compra.aspx");
         }
 
+        public int ValidaEmail()
+        {
+            if (lblTotal.Text == "0.00")
+            {
+                ScriptManager.RegisterStartupScript(this, GetType(), "showalert", "alert('No hay productos agregados al carro de compras');", true);
+                return 0;
+            }
+
+            if (txtCliente.Text == "")
+            {
+                ScriptManager.RegisterStartupScript(this, GetType(), "showalert", "alert('Debe ingresar un nombre de cliente');", true);
+                return 0;
+            }
+
+            if (this.TextBox2.Text == "")
+            {
+                ScriptManager.RegisterStartupScript(this, GetType(), "showalert", "alert('Debe ingresar un Correo Electrónico Válido');", true);
+                return 0;
+            }
+            
+            
+            return 1;
+        }
         protected void Button3_Click(object sender, EventArgs e)
         {
+            if (ValidaEmail() == 1)
+            {
             ComponenteNegocio.VentasCN oMatriculaCN = new ComponenteNegocio.VentasCN();
             ComponenteEntidad.Ventas oMatriculaCE = new ComponenteEntidad.Ventas();
             oMatriculaCE.Codigo = txtCodigo.Text;
@@ -157,7 +182,7 @@ namespace CarritoCompras
             SendEmail(sender, e);
             this.Response.Write("<script language='JavaScript'>window.alert('PROCESO TERMINADO CORRECTAMENTE')</script>");
             Response.Redirect("Carrito_Compra.aspx");
-
+          }  
         }
 
         protected void GridView1_RowDeleting(object sender, GridViewDeleteEventArgs e)
