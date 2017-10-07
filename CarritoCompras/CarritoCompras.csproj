@@ -120,13 +120,16 @@
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <None Include="Properties\PublishProfiles\CarritoComprasE.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Imagenes\3psdef1l.bmp" />
     <Content Include="Imagenes\apple.jpg" />
     <Content Include="Imagenes\borrar.jpg" />
     <Content Include="Imagenes\carrito.png" />
     <Content Include="Imagenes\carro-de-compras.jpg" />
     <Content Include="Imagenes\CELULAR.jpg" />
+    <Content Include="Imagenes\contact-us2.png" />
     <Content Include="Imagenes\dsc_0197_5.jpg" />
     <Content Include="Imagenes\dvd.jpg" />
+    <Content Include="Imagenes\edh0pdj2.bmp" />
     <Content Include="Imagenes\equipo.jpg" />
     <Content Include="Imagenes\frigider.jpg" />
     <Content Include="Imagenes\hp.jpg" />

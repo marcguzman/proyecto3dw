@@ -13,3 +13,8 @@ C:\Users\Jorge Sandoval\Documents\puntoVentas\ComponenteEntidad\bin\Debug\Compon
 C:\Users\Jorge Sandoval\Documents\puntoVentas\ComponenteEntidad\obj\Debug\ComponenteEntidad.dll
 C:\Users\Jorge Sandoval\Documents\puntoVentas\ComponenteEntidad\obj\Debug\ComponenteEntidad.pdb
 C:\Users\Jorge Sandoval\Documents\puntoVentas\ComponenteEntidad\obj\Debug\ComponenteEntidad.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Source\Repos\proyecto3dw\ComponenteEntidad\bin\Debug\ComponenteEntidad.dll
+C:\Users\Victor\Source\Repos\proyecto3dw\ComponenteEntidad\bin\Debug\ComponenteEntidad.pdb
+C:\Users\Victor\Source\Repos\proyecto3dw\ComponenteEntidad\obj\Debug\ComponenteEntidad.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Source\Repos\proyecto3dw\ComponenteEntidad\obj\Debug\ComponenteEntidad.dll
+C:\Users\Victor\Source\Repos\proyecto3dw\ComponenteEntidad\obj\Debug\ComponenteEntidad.pdb

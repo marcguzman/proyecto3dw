@@ -13,3 +13,8 @@ C:\Users\Jorge Sandoval\Documents\puntoVentas\BDConexion\bin\Debug\BDConexion.pd
 C:\Users\Jorge Sandoval\Documents\puntoVentas\BDConexion\obj\Debug\BDConexion.dll
 C:\Users\Jorge Sandoval\Documents\puntoVentas\BDConexion\obj\Debug\BDConexion.pdb
 C:\Users\Jorge Sandoval\Documents\puntoVentas\BDConexion\obj\Debug\BDConexion.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Source\Repos\proyecto3dw\BDConexion\bin\Debug\BDConexion.dll
+C:\Users\Victor\Source\Repos\proyecto3dw\BDConexion\bin\Debug\BDConexion.pdb
+C:\Users\Victor\Source\Repos\proyecto3dw\BDConexion\obj\Debug\BDConexion.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Source\Repos\proyecto3dw\BDConexion\obj\Debug\BDConexion.dll
+C:\Users\Victor\Source\Repos\proyecto3dw\BDConexion\obj\Debug\BDConexion.pdb
