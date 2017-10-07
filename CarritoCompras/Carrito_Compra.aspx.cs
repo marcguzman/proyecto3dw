@@ -15,12 +15,12 @@ namespace CarritoCompras
 {
     public partial class Carrito_Compra : System.Web.UI.Page
     {
-        DataTable dtb;
-        DataTable carrito = new DataTable();
+        DataTable dtb = new DataTable();
+        DataTable carrito;
 
         public void CargarDetalle()
         {
-            dtb = new DataTable("Carrito");
+            //dtb = new DataTable("Carrito");
             dtb.Columns.Add("codproducto", System.Type.GetType("System.String"));
             dtb.Columns.Add("desproducto", System.Type.GetType("System.String"));
             dtb.Columns.Add("preproducto", System.Type.GetType("System.Double"));
