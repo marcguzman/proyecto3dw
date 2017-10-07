@@ -18,3 +18,8 @@ C:\Users\Victor\Source\Repos\proyecto3dw\ComponenteEntidad\bin\Debug\ComponenteE
 C:\Users\Victor\Source\Repos\proyecto3dw\ComponenteEntidad\obj\Debug\ComponenteEntidad.csprojResolveAssemblyReference.cache
 C:\Users\Victor\Source\Repos\proyecto3dw\ComponenteEntidad\obj\Debug\ComponenteEntidad.dll
 C:\Users\Victor\Source\Repos\proyecto3dw\ComponenteEntidad\obj\Debug\ComponenteEntidad.pdb
+C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteEntidad\bin\Debug\ComponenteEntidad.dll
+C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteEntidad\bin\Debug\ComponenteEntidad.pdb
+C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteEntidad\obj\Debug\ComponenteEntidad.csprojResolveAssemblyReference.cache
+C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteEntidad\obj\Debug\ComponenteEntidad.dll
+C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteEntidad\obj\Debug\ComponenteEntidad.pdb

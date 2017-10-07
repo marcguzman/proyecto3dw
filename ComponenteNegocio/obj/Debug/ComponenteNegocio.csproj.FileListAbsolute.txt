@@ -42,3 +42,14 @@ C:\Users\Victor\Source\Repos\proyecto3dw\ComponenteNegocio\bin\Debug\ComponenteE
 C:\Users\Victor\Source\Repos\proyecto3dw\ComponenteNegocio\obj\Debug\ComponenteNegocio.csprojResolveAssemblyReference.cache
 C:\Users\Victor\Source\Repos\proyecto3dw\ComponenteNegocio\obj\Debug\ComponenteNegocio.dll
 C:\Users\Victor\Source\Repos\proyecto3dw\ComponenteNegocio\obj\Debug\ComponenteNegocio.pdb
+C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteNegocio\bin\Debug\ComponenteNegocio.dll
+C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteNegocio\bin\Debug\ComponenteNegocio.pdb
+C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteNegocio\bin\Debug\BDConexion.dll
+C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteNegocio\bin\Debug\ComponenteDatos.dll
+C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteNegocio\bin\Debug\ComponenteEntidad.dll
+C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteNegocio\bin\Debug\BDConexion.pdb
+C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteNegocio\bin\Debug\ComponenteDatos.pdb
+C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteNegocio\bin\Debug\ComponenteEntidad.pdb
+C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteNegocio\obj\Debug\ComponenteNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteNegocio\obj\Debug\ComponenteNegocio.dll
+C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteNegocio\obj\Debug\ComponenteNegocio.pdb

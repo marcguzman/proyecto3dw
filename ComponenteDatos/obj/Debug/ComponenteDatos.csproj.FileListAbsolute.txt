@@ -34,3 +34,12 @@ C:\Users\Victor\Source\Repos\proyecto3dw\ComponenteDatos\bin\Debug\ComponenteEnt
 C:\Users\Victor\Source\Repos\proyecto3dw\ComponenteDatos\obj\Debug\ComponenteDatos.csprojResolveAssemblyReference.cache
 C:\Users\Victor\Source\Repos\proyecto3dw\ComponenteDatos\obj\Debug\ComponenteDatos.dll
 C:\Users\Victor\Source\Repos\proyecto3dw\ComponenteDatos\obj\Debug\ComponenteDatos.pdb
+C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteDatos\bin\Debug\ComponenteDatos.dll
+C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteDatos\bin\Debug\ComponenteDatos.pdb
+C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteDatos\bin\Debug\BDConexion.dll
+C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteDatos\bin\Debug\ComponenteEntidad.dll
+C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteDatos\bin\Debug\BDConexion.pdb
+C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteDatos\bin\Debug\ComponenteEntidad.pdb
+C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteDatos\obj\Debug\ComponenteDatos.csprojResolveAssemblyReference.cache
+C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteDatos\obj\Debug\ComponenteDatos.dll
+C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteDatos\obj\Debug\ComponenteDatos.pdb

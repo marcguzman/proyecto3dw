@@ -18,3 +18,8 @@ C:\Users\Victor\Source\Repos\proyecto3dw\BDConexion\bin\Debug\BDConexion.pdb
 C:\Users\Victor\Source\Repos\proyecto3dw\BDConexion\obj\Debug\BDConexion.csprojResolveAssemblyReference.cache
 C:\Users\Victor\Source\Repos\proyecto3dw\BDConexion\obj\Debug\BDConexion.dll
 C:\Users\Victor\Source\Repos\proyecto3dw\BDConexion\obj\Debug\BDConexion.pdb
+C:\Users\Mk\Source\Repos\proyecto3dw\BDConexion\bin\Debug\BDConexion.dll
+C:\Users\Mk\Source\Repos\proyecto3dw\BDConexion\bin\Debug\BDConexion.pdb
+C:\Users\Mk\Source\Repos\proyecto3dw\BDConexion\obj\Debug\BDConexion.csprojResolveAssemblyReference.cache
+C:\Users\Mk\Source\Repos\proyecto3dw\BDConexion\obj\Debug\BDConexion.dll
+C:\Users\Mk\Source\Repos\proyecto3dw\BDConexion\obj\Debug\BDConexion.pdb
