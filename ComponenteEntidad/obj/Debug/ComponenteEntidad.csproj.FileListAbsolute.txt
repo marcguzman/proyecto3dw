@@ -23,3 +23,9 @@ C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteEntidad\bin\Debug\ComponenteEntid
 C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteEntidad\obj\Debug\ComponenteEntidad.csprojResolveAssemblyReference.cache
 C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteEntidad\obj\Debug\ComponenteEntidad.dll
 C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteEntidad\obj\Debug\ComponenteEntidad.pdb
+C:\Users\thebe\Documents\GitHub\proyecto3dw\ComponenteEntidad\bin\Debug\ComponenteEntidad.dll
+C:\Users\thebe\Documents\GitHub\proyecto3dw\ComponenteEntidad\bin\Debug\ComponenteEntidad.pdb
+C:\Users\thebe\Documents\GitHub\proyecto3dw\ComponenteEntidad\obj\Debug\ComponenteEntidad.csprojResolveAssemblyReference.cache
+C:\Users\thebe\Documents\GitHub\proyecto3dw\ComponenteEntidad\obj\Debug\ComponenteEntidad.csproj.CoreCompileInputs.cache
+C:\Users\thebe\Documents\GitHub\proyecto3dw\ComponenteEntidad\obj\Debug\ComponenteEntidad.dll
+C:\Users\thebe\Documents\GitHub\proyecto3dw\ComponenteEntidad\obj\Debug\ComponenteEntidad.pdb

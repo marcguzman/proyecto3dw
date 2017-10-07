@@ -19,7 +19,7 @@
     <p style="text-align: center;">
         <span style="background-color: #ffffff; font-size: x-large;">•&nbsp;</span><span style="font-size: x-large;">Envías tus productos a toda Guatemala con&nbsp;una tarifa especial</span></p>
     <p style="text-align: center;">
-        <span style="font-size: x-large;">•&nbsp;Cobras contra entrega&nbsp;</span></p>
+        <span style="font-size: x-large;">•&nbsp;Compras contra entrega&nbsp;.</span></p>
     <p>
         <span style="font-size: x-large;">&nbsp; </span>
     </p>

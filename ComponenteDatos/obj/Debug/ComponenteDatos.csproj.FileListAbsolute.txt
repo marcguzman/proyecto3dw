@@ -43,3 +43,13 @@ C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteDatos\bin\Debug\ComponenteEntidad
 C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteDatos\obj\Debug\ComponenteDatos.csprojResolveAssemblyReference.cache
 C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteDatos\obj\Debug\ComponenteDatos.dll
 C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteDatos\obj\Debug\ComponenteDatos.pdb
+C:\Users\thebe\Documents\GitHub\proyecto3dw\ComponenteDatos\bin\Debug\ComponenteDatos.dll
+C:\Users\thebe\Documents\GitHub\proyecto3dw\ComponenteDatos\bin\Debug\ComponenteDatos.pdb
+C:\Users\thebe\Documents\GitHub\proyecto3dw\ComponenteDatos\bin\Debug\BDConexion.dll
+C:\Users\thebe\Documents\GitHub\proyecto3dw\ComponenteDatos\bin\Debug\ComponenteEntidad.dll
+C:\Users\thebe\Documents\GitHub\proyecto3dw\ComponenteDatos\bin\Debug\BDConexion.pdb
+C:\Users\thebe\Documents\GitHub\proyecto3dw\ComponenteDatos\bin\Debug\ComponenteEntidad.pdb
+C:\Users\thebe\Documents\GitHub\proyecto3dw\ComponenteDatos\obj\Debug\ComponenteDatos.csprojResolveAssemblyReference.cache
+C:\Users\thebe\Documents\GitHub\proyecto3dw\ComponenteDatos\obj\Debug\ComponenteDatos.csproj.CoreCompileInputs.cache
+C:\Users\thebe\Documents\GitHub\proyecto3dw\ComponenteDatos\obj\Debug\ComponenteDatos.dll
+C:\Users\thebe\Documents\GitHub\proyecto3dw\ComponenteDatos\obj\Debug\ComponenteDatos.pdb

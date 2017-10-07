@@ -53,3 +53,15 @@ C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteNegocio\bin\Debug\ComponenteEntid
 C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteNegocio\obj\Debug\ComponenteNegocio.csprojResolveAssemblyReference.cache
 C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteNegocio\obj\Debug\ComponenteNegocio.dll
 C:\Users\Mk\Source\Repos\proyecto3dw\ComponenteNegocio\obj\Debug\ComponenteNegocio.pdb
+C:\Users\thebe\Documents\GitHub\proyecto3dw\ComponenteNegocio\bin\Debug\ComponenteNegocio.dll
+C:\Users\thebe\Documents\GitHub\proyecto3dw\ComponenteNegocio\bin\Debug\ComponenteNegocio.pdb
+C:\Users\thebe\Documents\GitHub\proyecto3dw\ComponenteNegocio\bin\Debug\BDConexion.dll
+C:\Users\thebe\Documents\GitHub\proyecto3dw\ComponenteNegocio\bin\Debug\ComponenteDatos.dll
+C:\Users\thebe\Documents\GitHub\proyecto3dw\ComponenteNegocio\bin\Debug\ComponenteEntidad.dll
+C:\Users\thebe\Documents\GitHub\proyecto3dw\ComponenteNegocio\bin\Debug\BDConexion.pdb
+C:\Users\thebe\Documents\GitHub\proyecto3dw\ComponenteNegocio\bin\Debug\ComponenteDatos.pdb
+C:\Users\thebe\Documents\GitHub\proyecto3dw\ComponenteNegocio\bin\Debug\ComponenteEntidad.pdb
+C:\Users\thebe\Documents\GitHub\proyecto3dw\ComponenteNegocio\obj\Debug\ComponenteNegocio.csprojResolveAssemblyReference.cache
+C:\Users\thebe\Documents\GitHub\proyecto3dw\ComponenteNegocio\obj\Debug\ComponenteNegocio.csproj.CoreCompileInputs.cache
+C:\Users\thebe\Documents\GitHub\proyecto3dw\ComponenteNegocio\obj\Debug\ComponenteNegocio.dll
+C:\Users\thebe\Documents\GitHub\proyecto3dw\ComponenteNegocio\obj\Debug\ComponenteNegocio.pdb
